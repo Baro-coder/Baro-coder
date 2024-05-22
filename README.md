@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47hszktr2pex68mlestjzd992klofhy694xdyeetxl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhbzM0aDJkaWlkbHNmNTNxNzI5c3BubmhlODVtaHVwN2l5MnNxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="400"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/bart%C5%82omiej-baro-szykula3811/">
