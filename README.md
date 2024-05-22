@@ -25,9 +25,7 @@ I am a graduate of computer science <img src="https://media.giphy.com/media/BzIM
 
 - :seedling: Exploring Cloud Technologies.
 
-- :zap: In my free time, I prototype PCBs for Smart Home kind project and read tech articles.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Baro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-baro-szykula3811/)
+- :zap: In my free time, I prototype PCB, design home network and read tech articles.
 
 ---
 
