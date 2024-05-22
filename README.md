@@ -16,10 +16,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-</div>
-
 ### :man_technologist: About Me :
 
 I am a graduate of computer science <img src="https://media.giphy.com/media/BzIMmFeb1mzZBDLdsC/giphy.gif?cid=ecf05e47zkg4f7rg5t6wwlo1ticd3zq9jeqe1qfvg01s8b3a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20"> from 
