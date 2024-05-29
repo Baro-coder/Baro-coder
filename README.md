@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhbzM0aDJkaWlkbHNmNTNxNzI5c3BubmhlODVtaHVwN2l5MnNxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="400"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bart%C5%82omiej-baro-szykula3811/">
+    <a href="https://www.linkedin.com/in/bart%C5%82omiej-szykula/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCg1VSQDHnwWYmUEDvB3ef0w">
